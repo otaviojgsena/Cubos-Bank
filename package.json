@@ -1,0 +1,23 @@
+{
+  "name": "desafio-backend-m02-dds-t09",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaviojgsena/desafio-backend-m02-dds-t09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaviojgsena/desafio-backend-m02-dds-t09/issues"
+  },
+  "homepage": "https://github.com/otaviojgsena/desafio-backend-m02-dds-t09#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
